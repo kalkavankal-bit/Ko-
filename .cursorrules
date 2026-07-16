@@ -1,0 +1,15 @@
+Production Code Only
+
+Never delete code.
+
+Never overwrite architecture.
+
+Always use TypeScript.
+
+Always use Tailwind.
+
+Always use React Hooks.
+
+Always use reusable components.
+
+Always document every function.
